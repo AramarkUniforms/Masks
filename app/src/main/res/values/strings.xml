@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Masks</string>
+    <string name="app_name_with_index">Masks (%1$d/%2$d)</string>
+    <string name="info">Info</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="intro_message">Masks Pdf</string>
+</resources>
